@@ -52,13 +52,13 @@ The system processes the user's natural-language request and retrieves the relev
 
 ## 🖥️ Application Preview
 
-![E-Commerce Chatbot Product Screenshot](app/resources/product-ss.png)
+![E-Commerce Chatbot Product Screenshot](App/resources/product-ss.png)
 
 ---
 
 ## 🏗️ Architecture
 
-![E-Commerce Chatbot Architecture](app/resources/architecture-diagram.png)
+![E-Commerce Chatbot Architecture](App/resources/architecture-diagram.png)
 
 The application follows an intent-driven architecture where the user's query is first analyzed and then routed to the appropriate workflow.
 
