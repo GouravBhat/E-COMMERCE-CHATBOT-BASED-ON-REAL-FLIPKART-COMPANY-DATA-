@@ -316,7 +316,7 @@ E-Commerce Website
         ↓
    Product Data
         ↓
-     Database
+     Database(sqlite)
         ↓
    Chatbot Query
         ↓
@@ -347,7 +347,6 @@ This project demonstrates practical experience with:
 AI/ML Engineer | Generative AI | Data Science | Python | RAG | LLMs | Full-Stack Development
 
 - GitHub: [@GouravBhat](https://github.com/GouravBhat)
-- LinkedIn: `Add your LinkedIn URL here`
 
 ---
 
